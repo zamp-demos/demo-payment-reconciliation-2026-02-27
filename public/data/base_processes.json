@@ -1,0 +1,54 @@
+[
+    {
+        "id": "STR_001",
+        "category": "Payment Reconciliation",
+        "name": "Acme Corp Subscription Payment #4821",
+        "stockId": "PAY-2026-001",
+        "year": "2026-02-24",
+        "status": "Ready",
+        "currentStatus": "Ready for processing",
+        "vendorName": "Acme Corp",
+        "invoiceAmount": "$12,500.00",
+        "paymentMethod": "Credit Card",
+        "currency": "USD"
+    },
+    {
+        "id": "STR_002",
+        "category": "Payment Reconciliation",
+        "name": "GlobalTech GmbH EUR Payment #7203",
+        "stockId": "PAY-2026-002",
+        "year": "2026-02-24",
+        "status": "Ready",
+        "currentStatus": "Ready for processing",
+        "vendorName": "GlobalTech GmbH",
+        "invoiceAmount": "\u20ac8,450.00",
+        "paymentMethod": "Bank Transfer",
+        "currency": "EUR"
+    },
+    {
+        "id": "STR_003",
+        "category": "Payment Reconciliation",
+        "name": "TechStart Inc Disputed Payment #5590",
+        "stockId": "PAY-2026-003",
+        "year": "2026-02-24",
+        "status": "Ready",
+        "currentStatus": "Ready for processing",
+        "vendorName": "TechStart Inc",
+        "invoiceAmount": "$4,200.00",
+        "paymentMethod": "ACH Transfer",
+        "currency": "USD"
+    },
+    {
+        "id": "STR_004",
+        "category": "Payment Reconciliation",
+        "name": "CloudServ LLC Partial Refund Mismatch",
+        "stockId": "PAY-2026-004",
+        "year": "2026-02-24",
+        "status": "Ready",
+        "currentStatus": "Ready for processing",
+        "vendorName": "CloudServ LLC",
+        "invoiceAmount": "$5,000.00",
+        "paymentMethod": "Credit Card",
+        "currency": "USD"
+    }
+]
